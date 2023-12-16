@@ -53,7 +53,7 @@ const Nav = () => {
           </ul>
         </div>
         <div className="flex items-center justify-end">
-          <button className="py-2 px-8 rounded-md bg-blue-400 hover:bg-blue-300">
+          <button className="py-2 px-8 rounded-md bg-red-400 hover:bg-red-300">
             Log In
           </button>
           {open ? (
